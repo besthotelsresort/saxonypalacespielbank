@@ -1,0 +1,2 @@
+# saxonypalacespielbank
+Static site: saxonypalacespielbank
